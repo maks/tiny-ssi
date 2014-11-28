@@ -1,6 +1,6 @@
 {
   "name": "tiny-ssi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a minimal implementation of Apache SSI (server-side includes)",
   "main": "index.js",
   "scripts": {

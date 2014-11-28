@@ -2,10 +2,13 @@
 
 A minimal implementation of Apache SSI (server-side includes)
 
+Code originally from https://github.com/donofkarma/node-ssi-parser/blob/master/lib/node-ssi-parser.js
+but for some reason that package is not published on npm, so that all I've done here.
+
 
 ## Usage
 
-Currently only reall supports doing includes, eg. 
+Currently only really supports doing includes, eg. 
 
 ```html
 
